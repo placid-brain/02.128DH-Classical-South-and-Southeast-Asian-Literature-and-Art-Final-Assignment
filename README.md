@@ -2,24 +2,14 @@
 Analysing The Modern Interpretation of "The Recognition of Shakuntala"
 
 Install the following packages
-`
-pip install bs4
-`
-`
-pip install NRCLex
-`
-`
-pip install 'unidecode'
-`
-`
-pip install contractions
-`
-`
-pip install pandas
-`
-`
-pip install --user -U nltk
-`
+
+1. `pip install bs4 `
+2. ` pip install NRCLex`
+3. ` pip install 'unidecode'`
+4. `pip install contractions `
+5. `pip install pandas ` 
+6. `pip install --user -U nltk `
+
 
 The files are to be run in the following order
 1. Run the ` extraction_from_html_page.ipynb ` first
