@@ -4,10 +4,20 @@ Analysing The Modern Interpretation of "The Recognition of Shakuntala"
 Install the following packages
 `
 pip install bs4
+`
+`
 pip install NRCLex
+`
+`
 pip install 'unidecode'
+`
+`
 pip install contractions
+`
+`
 pip install pandas
+`
+`
 pip install --user -U nltk
 `
 
